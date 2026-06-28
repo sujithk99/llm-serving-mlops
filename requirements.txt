@@ -4,3 +4,6 @@ transformers
 torch
 accelerate
 pydantic
+prometheus-client
+pytest
+httpx
